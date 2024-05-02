@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-bottom: 1000px;
+    background-color: rgb(248, 248, 248);
+    padding: 100px 0 3000px 150px;
+    font-family: Roboto, Arial;
+}
+p {
+    margin: 0px;
+    margin-left: 6px;
+}
+button {
+    cursor: pointer;
+}
+button:active {
+    opacity: 0.5;
+}
